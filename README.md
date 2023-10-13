@@ -10,12 +10,12 @@ This is a simple example/tutorial using the pre-trained NLP model (BERTweet) ava
 * Also demonstrating how to use sentiment_bertweet in util_get_sentiment.py  
 * BERTweet ability with Python package *emoji*
 ## main_python.py
-Can be call in terminal with:
+Can be called in terminal with:
 ```console
 $ python main_python.py --sentence "Sentence input"
 ```
 ## main.py
-The FastAPI app, can be call in terminal with:
+The FastAPI app, can be called in terminal with:
 ```console
 $ uvicorn main:app --reload
 ```
