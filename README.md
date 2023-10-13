@@ -1,5 +1,5 @@
 # BERTweet_FastAPI
-This is a git remote add origin using the pre-trained NLP model (BERTweet) available on Huggingface (Python package: *transformer*) and using FastAPI to build an app on it
+This is a simple example/tutorial using the pre-trained NLP model (BERTweet) available on Huggingface (Python package: *transformer*) and using FastAPI to build an app on it.
 # Main Files
 ## util_get_sentiment.py
 Function: sentiment_bertweet  
