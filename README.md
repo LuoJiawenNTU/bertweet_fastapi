@@ -2,9 +2,9 @@
 This is a simple example/tutorial using the pre-trained NLP model (BERTweet) available on Huggingface (Python package: *transformers*) and using FastAPI to build an app on it.
 # Main Files
 ## util_get_sentiment.py
-Function: sentiment_bertweet  
-Input: a sentence (str)  
-Output: sentiment label ('Positive', 'Neutral', 'Negative') and score predicted by the BERTweet model
+* Function: sentiment_bertweet  
+* Input: a sentence (str)  
+* Output: sentiment label ('Positive', 'Neutral', 'Negative') and score predicted by the BERTweet model
 ## try_tranformer_bertweet.ipynb
 * Step-by-step demonstration of how to get the pre-trained model from Huggingface and do the prediction  
 * Also demonstrating how to use sentiment_bertweet in util_get_sentiment.py  
